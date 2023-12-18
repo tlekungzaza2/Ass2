@@ -1,0 +1,56 @@
+body{
+
+
+}
+.flex-con{
+    display: flex;
+    width: 1000px;
+    height: 100px;
+    background-color: aqua;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.flex-header{
+    font-size: 54px;
+    font-style: italic;
+}
+.flex-navi{
+    display: flex;
+    width: 1000px;
+    height: 50px;
+    background-color: yellow;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.flex-navi-word{
+    font-size: 25px;
+}
+.flex-lorem{
+    display: flex;
+    width: 1000px;
+    height: 550px;
+    background-color: lightblue;
+    margin: auto;
+}
+.lorem{
+    margin: 7px;
+    margin-top: -10px;
+}
+.flex-footer{
+    display: flex;
+    width: 1000px;
+    height: 50px;
+    background-color: plum;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.footer{
+    font-size: 50px;
+    font-style: unset;
+}
